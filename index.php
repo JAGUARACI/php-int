@@ -29,9 +29,5 @@ else if($idade >= 13 && $idade <=18)
 echo "O narrador",$nome, "compete na categoria adolescente";
 }}
 
-else {for($i = 0; $i <= count($categorias); $i++)
-{if($categorias[$i] == 'adulto')
-echo "O narrador",$nome, "compete na categoria adulto";
-}}
 
 ?>
