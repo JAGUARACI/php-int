@@ -34,6 +34,4 @@ else {for($i = 0; $i <= count($categorias); $i++)
 echo "O narrador",$nome, "compete na categoria adulto";
 }}
 
-print_r($i);
-
 ?>
